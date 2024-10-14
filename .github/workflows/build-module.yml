@@ -1,0 +1,5 @@
+tag: 19.07.5
+pkgarch: mipsel_24kc
+target: mediatek
+subtarget: MT7628AN
+vermagic: d92769dc5268e102503ae83fe968a56c
